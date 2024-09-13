@@ -17,14 +17,6 @@ users with their Discord accounts.
    cd discord-sso-php-example
    ```
 
-2. Install dependencies (if any). You can use Composer if additional libraries are needed.
-
-   ```bash
-   composer install
-   ```
-
-3. Create a `.env` file or directly configure your Discord application credentials in the `index.php` file.
-
 ## Setting Up a Discord OAuth2 Client for SSO
 
 Follow these steps to configure your Discord application for Single Sign-On (SSO) using OAuth2.
