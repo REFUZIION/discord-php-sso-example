@@ -6,7 +6,7 @@ users with their Discord accounts.
 ## Requirements
 
 - PHP 7.4 or higher
-- A Discord application (create one in the [Discord Developer Portal]())
+- A Discord application (create one in the [Discord Developer Portal](#setting-up-a-discord-oauth2-client-for-sso))
 
 ## Installation
 
